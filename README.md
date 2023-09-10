@@ -1,2 +1,2 @@
 # lamm-Clone-2
-It is clone on e-commerce website laam
+It is clone of an e-commerce website laam
